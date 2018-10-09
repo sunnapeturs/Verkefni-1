@@ -21,7 +21,7 @@ var isItTrueWhatTheySayAboutKalli = aboutKalli === "kalli er góður strákur";
 */
 
 //7. 
-var aboutPalli = "palli er vondur strákur";
+var aboutPalli = "palli er vondur strákur 2";
 var isItTrueWhatTheySayAboutPalli = aboutPalli==="palli er vondur strákur" && !"palli er góður strákur";
 
 //8
